@@ -13,4 +13,6 @@
 
 <img src="https://img.shields.io/badge/JAVA-FF160B?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 
+
+<img src="https://img.shields.io/badge/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.pn-FF160B?style=flat-square&logo=java&logoColor=white">
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png?style=flat-square&logo=java&logoColor=white">
