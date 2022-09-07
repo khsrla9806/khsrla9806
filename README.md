@@ -11,6 +11,9 @@
 **Front**<br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/><br>
 
+
 ### 👨🏻‍💻 공부하고 있는 기술
 **BackEnd**<br>
 <img src="https://img.shields.io/badge/JAVA-FF160B?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png-FF160B?style=flat-square&logo=java&logoColor=white">
