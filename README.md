@@ -19,4 +19,4 @@
 
 
 
-https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1573198836/noticon/uydcemefupin4kvi5pii.gif
+<img class="LazyLoadImage" alt="병아리" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1573198836/noticon/uydcemefupin4kvi5pii.gif">
