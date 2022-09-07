@@ -15,4 +15,4 @@
 
 
 
-<img src="https://img.shields.io/badge/JAVA-FF160B?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fnoticon-static.tammolo.com%2Fdgggcrkxq%2Fimage%2Fupload%2Fv1566913897%2Fnoticon%2Fxbvewg1m3azbpnrzck1k.png">
