@@ -15,8 +15,3 @@
 ### 👨🏻‍💻 공부하고 있는 기술
 **BackEnd**<br>
 <img src="https://img.shields.io/badge/JAVA-FF160B?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-
-
-
-
-<img class="LazyLoadImage" alt="병아리" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1573198836/noticon/uydcemefupin4kvi5pii.gif">
