@@ -14,4 +14,4 @@
 ### 👨🏻‍💻 공부하고 있는 기술
 **BackEnd**<br>
 <img src="https://img.shields.io/badge/JAVA-FF160B?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://www.flaticon.com/kr/free-icon/java-logo_14427?term=%EC%9E%90%EB%B0%94%20%EB%A1%9C%EA%B3%A0&page=1&position=12&page=1&position=12&related_id=14427&origin=tag-007396?style=flat-square&logo=java&logoColor=white">
