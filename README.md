@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/><br>
 </p>
 <br>
-<h4 align="center">🔽  Technical stack I'm currently studying.  🔽</h4><br>
+<h4 align="center">🔽  Technical Stack I'm currently studying.  🔽</h4><br>
 
 <p align="center">👨🏻‍💻 BackEnd</p>
 <p align="center">
