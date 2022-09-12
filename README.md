@@ -27,4 +27,9 @@
 <p align="center">👨🏻‍💻 BackEnd</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+</p>
+
+<p align="center">👨🏻‍💻 Language (Game)</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white">
 </p><hr>
