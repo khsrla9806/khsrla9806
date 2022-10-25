@@ -37,4 +37,12 @@
 <p align="center">👨🏻‍💻 Language (Game)</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white">
-</p><hr>
+</p>
+
+<p align="center">💾 Database</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"><br>
+</p>
+<br>
+
+<hr>
