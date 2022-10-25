@@ -1,6 +1,6 @@
-<hr><h3 align="center">🛠️ My Technical Stack 🛠️</h3><hr>
+<hr><h3 align="center">📚 My Technical Stack </h3><hr>
 
-<h4 align="center">🔽  Technical Stack I've used.  🔽</h4><br>
+<h4 align="center">🔽 &nbsp;&nbsp; Technical Stack I've used. &nbsp;&nbsp; 🔽</h4><br>
 
 <p align="center">👨🏻‍💻 BackEnd</p>
 <p align="center">
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"><br>
 </p>
 <br>
-<h4 align="center">🔽  Technical Stack I'm currently studying.  🔽</h4><br>
+<h4 align="center">🔽 &nbsp;&nbsp; Technical Stack I'm currently studying. &nbsp;&nbsp; 🔽</h4><br>
 
 <p align="center">👨🏻‍💻 BackEnd</p>
 <p align="center">
