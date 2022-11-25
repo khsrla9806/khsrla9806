@@ -4,7 +4,7 @@
 
 <p align="center">👨🏻‍💻 BackEnd</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=java&logoColor=white"><br>
 </p>
 
 <p align="center">🌐 Deploy</p>
@@ -31,12 +31,12 @@
 
 <p align="center">👨🏻‍💻 BackEnd</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 </p>
 
 <p align="center">💾 Database</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>
 </p>
 <br>
 
