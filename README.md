@@ -1,6 +1,6 @@
-<hr><h3 align="center">📚 My Technical Stack </h3><hr>
+<h1 align="center"> 🙌🏻 Welcome to my GitHub page 🙌🏻</h1><br>
 
-<h4 align="center">🔽 &nbsp;&nbsp; Technical Stack I've used. &nbsp;&nbsp; 🔽</h4><br>
+<h3 align="center"> &nbsp;&nbsp; Technical Stacks I've used. &nbsp;&nbsp; </h3>
 
 <p align="center">👨🏻‍💻 BackEnd</p>
 <p align="center">
@@ -26,13 +26,20 @@
 <p align="center">
 <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"><br/>
 </p>
+
+<p align="center">🖥️ IDE</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"><br/>
+</p>
 <br>
-<h4 align="center">🔽 &nbsp;&nbsp; Technical Stack I'm currently studying. &nbsp;&nbsp; 🔽</h4><br>
+
+
+<h3 align="center">&nbsp;&nbsp; Technical Stacks I'm studying. &nbsp;&nbsp;</h3>
 
 <p align="center">👨🏻‍💻 BackEnd</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 </p>
 
-<hr>
+<h1></h1>
 
