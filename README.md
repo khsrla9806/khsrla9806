@@ -1,7 +1,7 @@
 <h2></h2>
 <h1 align="center"> 🙌🏻 Welcome to my GitHub page 🙌🏻</h1>
 
-<h3 align="center" style="font-size:80px;"><a href="https://cookie-sock-16d.notion.site/d9b227ed68cc4c7e84f89b6a0ca0131e">&nbsp;&nbsp; 🙋🏻‍♂️ Go to my portfolio &nbsp;&nbsp;</a></h3>
+<!-- <h3 align="center" style="font-size:80px;"><a href="https://cookie-sock-16d.notion.site/d9b227ed68cc4c7e84f89b6a0ca0131e">&nbsp;&nbsp; 🙋🏻‍♂️ Go to my portfolio &nbsp;&nbsp;</a></h3> -->
 <br/>
 <h3 align="center"> &nbsp;&nbsp; Technical Stacks I've used. &nbsp;&nbsp; </h3>
 
