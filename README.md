@@ -45,8 +45,6 @@
 </p>
 
 <br><br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khsrla9806"></p>
 <h1></h1>
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsrla9806&count_bg=%23A4A4A4&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Today+Visitors+/+Total&edge_flat=false)](https://hits.seeyoufarm.com)
