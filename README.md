@@ -7,7 +7,7 @@
 
 <p align="center">👨🏻‍💻 BackEnd</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=java&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"><br>
 </p>
 
 <p align="center">👨🏻‍💻 FrontEnd</p>
@@ -37,12 +37,7 @@
 <br>
 
 
-<h3 align="center">&nbsp;&nbsp; Technical Stacks I'm studying. &nbsp;&nbsp;</h3>
-
-<p align="center">👨🏻‍💻 BackEnd</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-</p>
+<!-- <h3 align="center">&nbsp;&nbsp; Technical Stacks I'm studying. &nbsp;&nbsp;</h3> -->
 
 <br><br>
 <h1></h1>
