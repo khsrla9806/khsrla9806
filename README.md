@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=003458&section=header&text=Hello!%20I'm%20HoonSub%20Kim&fontSize=40&fontColor=ffffff&animation=twinkling)
 <h2></h2>
-<h1 align="center"> 🙌🏻 Welcome to my GitHub page 🙌🏻</h1>
 
 <!-- <h3 align="center" style="font-size:80px;"><a href="https://cookie-sock-16d.notion.site/d9b227ed68cc4c7e84f89b6a0ca0131e">&nbsp;&nbsp; 🙋🏻‍♂️ Go to my portfolio &nbsp;&nbsp;</a></h3> -->
 <br/>
@@ -40,6 +40,9 @@
 <!-- <h3 align="center">&nbsp;&nbsp; Technical Stacks I'm studying. &nbsp;&nbsp;</h3> -->
 
 <br><br>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khsrla9806&show_icons=true&theme=graywhite"></p>
+
 <h1></h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsrla9806&count_bg=%23A4A4A4&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Today+Visitors+/+Total&edge_flat=false)](https://hits.seeyoufarm.com)
