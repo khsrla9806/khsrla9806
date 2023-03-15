@@ -34,18 +34,13 @@
 <p align="center">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"><br/>
 </p>
-<br>
-
-
-<!-- <h3 align="center">&nbsp;&nbsp; Technical Stacks I'm studying. &nbsp;&nbsp;</h3> -->
 
 <br><br>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khsrla9806&show_icons=true&theme=graywhite"></p>
+<br>
 
 <h1></h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsrla9806&count_bg=%23A4A4A4&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Today+Visitors+/+Total&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=003458&section=header&fontColor=ffffff&animation=twinkling)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsrla9806&count_bg=%23A4A4A4&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Today+Visitors+/+Total&edge_flat=false)](https://hits.seeyoufarm.com)
