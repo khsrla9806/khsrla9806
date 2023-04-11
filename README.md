@@ -2,7 +2,7 @@
 
 - <p>🧑🏻‍💻  I’m learning Java and Spring Framework to become a Backend Developer.<p>
 - <p>👥  I pursue shared growth with my colleagues by sharing the knowledge and materials.<p>
-- <p>✏️  To avoid the same error, I learn and record meticulously when I encounter an error.<p>
+- <p>✏️  When an error occurs, I learn and record it carefully to avoid the same error.<p>
 - <p>🔍  I constantly think about finding better ways and exceptional cases.<p>
 
 <br>
