@@ -18,16 +18,11 @@
 
 <br><br>
 <div align="center">
-  <h3 align="center">🐤 매일 성장합니다.</h3>
-
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rody)](https://solved.ac/rody/)
   
 </div>
 
-<br>
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khsrla9806&layout=compact"></p> -->
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khsrla9806&show_icons=true&theme=graywhite"></p>
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=003458&section=header&fontColor=ffffff&animation=twinkling)
