@@ -16,13 +16,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 </p>
 
-<br><br>
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rody)](https://solved.ac/rody/)
-  
-</div>
-
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=003458&section=header&fontColor=ffffff&animation=twinkling)
