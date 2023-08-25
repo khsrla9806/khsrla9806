@@ -1,11 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=003458&section=header&text=Welcome%20To%20My%20Github%20Page%20🙆🏻‍♂️&fontSize=40&fontColor=ffffff&animation=twinkling)
 
-- <p>I’m learning Java and Spring Framework to become a Backend Developer.<p>
-- <p>I pursue shared growth with my colleagues by sharing the knowledge and materials.<p>
-- <p>When an error occurs, I learn and record it carefully to avoid the same error.<p>
-- <p>I constantly think about finding better ways and exceptional cases.<p>
-
 <br>
+
 <h3>Stacks & Tools: </h3>
 <p>I've used in the project</p>
 <p>
@@ -32,8 +28,8 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 </p>
 
-<br>
+<br><br>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=003458&section=header&fontColor=ffffff&animation=twinkling)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=soft&color=003458&section=header&fontColor=ffffff&animation=twinkling) -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsrla9806&count_bg=%23A4A4A4&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Today+Visitors+/+Total&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsrla9806&count_bg=%23A4A4A4&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Today+Visitors+/+Total&edge_flat=false)](https://hits.seeyoufarm.com" align="right" />
