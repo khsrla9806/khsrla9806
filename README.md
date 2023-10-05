@@ -2,7 +2,7 @@
 
 <br>
 
-<h3>🤖 Main technical stack </h3>
+<h2>🤖 Main technical stack </h2>
 <p>
   <img src="https://img.shields.io/badge/Java (JDK 11)-C70D2C?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -23,7 +23,7 @@
 
 <br>
 
-<h3>🛠️ Experienced in projects </h3>
+<h2>🛠️ Experienced in projects </h2>
 <p>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
@@ -37,9 +37,9 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 </p>
 
-<br>
+<br><br>
 
-<h3>🐤 Experiences </h3>
+<h2>🐤 Experiences </h2>
 
 - `2022-03~2022-12` **멋쟁이 사자처럼 대학 10기 수료** | 백엔드 세션
 - `2023-03~2023-10` **FastCampus Back-End 부트캠프 5기 수료** | 백엔드 파트
