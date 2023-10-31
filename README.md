@@ -4,7 +4,7 @@
 
 <h2>🤖 Main technical stack </h2>
 <p>
-  <img src="https://img.shields.io/badge/Java (JDK 11)-C70D2C?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-C70D2C?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDSL-004088?style=for-the-badge&logo=querydsl&logoColor=white">
