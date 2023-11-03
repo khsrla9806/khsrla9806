@@ -4,7 +4,7 @@
 
 - `2022-03 ~ 2022-12` &nbsp; **Like Lion Univ 10th** &nbsp; `backEnd`
 - `2023-03 ~ 2023-10` &nbsp; **FastCampus Bootcamp 5th** &nbsp; `backEnd`
-- `2023-11 ~        ` &nbsp; **Depromeet 14th** &nbsp; `server`
+- `2023-11 ~   ing  ` &nbsp; **Depromeet 14th** &nbsp; `server`
 
 
 <br>
