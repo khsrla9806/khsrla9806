@@ -21,3 +21,9 @@
 
 #### :slightly_smiling_face: CHANNEL
 [![Blog Badge](https://img.shields.io/badge/Blog-F3F781?logo=tistory&logoColor=6E6E6E&link=https://hoonsb.tistory.com)](https://hoonsb.tistory.com)
+
+<br>
+
+#### 📸 About Me
+- [첫 Java 도전 우아한 테크코스 5기 프리코스](https://hoonsb.tistory.com/category/%F0%9F%8E%92%20Activity/%EC%9A%B0%EC%95%84%ED%95%9C%20%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4%20%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4)
+- [FastCampus 시작, 3, 9, 14주차 회고 그리고 전체 프로젝트 회고](https://hoonsb.tistory.com/category/%F0%9F%8E%92%20Activity/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4)
