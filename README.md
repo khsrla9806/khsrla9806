@@ -27,4 +27,4 @@
 #### 📸 About Me
 - [우아한 테크코스 5기 프리코스 회고](https://hoonsb.tistory.com/category/%F0%9F%8E%92%20Activity/%EC%9A%B0%EC%95%84%ED%95%9C%20%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4%20%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4)
 - [FastCampus BackEnd Bootcamp 5기 시작, 회고](https://hoonsb.tistory.com/category/%F0%9F%8E%92%20Activity/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4)
-- [Depromeet 14기 시작](https://hoonsb.tistory.com/category/%F0%9F%8E%92%20Activity/%EB%94%94%ED%94%84%EB%A7%8C)
+- [Depromeet(디프만) 14기 시작](https://hoonsb.tistory.com/category/%F0%9F%8E%92%20Activity/%EB%94%94%ED%94%84%EB%A7%8C)
