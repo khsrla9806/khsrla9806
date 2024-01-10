@@ -20,11 +20,6 @@
 
 <br>
 
-#### :slightly_smiling_face: CHANNEL
-[![Blog Badge](https://img.shields.io/badge/Blog-F3F781?logo=tistory&logoColor=6E6E6E&link=https://hoonsb.tistory.com)](https://hoonsb.tistory.com)
-
-<br>
-
 #### 📸 About Me
 - [[Team Ginger] 크리스마스에도 코딩하는 사람이 있다?](https://hoonsb.tistory.com/99)
 - [[FastCampus BackEnd Bootcamp 5기] 활동 기록](https://hoonsb.tistory.com/category/%F0%9F%8E%92%20Activity/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4)
