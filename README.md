@@ -18,13 +18,6 @@
 ![](https://img.shields.io/badge/github-F2F2F2?style=flat-square&logo=github&logoColor=181717)
 ![](https://img.shields.io/badge/Amazon%20AWS-F2F2F2?style=flat-square&logo=amazonaws&logoColor=41454A)
 
-<br>
-
-#### 📸 About Me
-- [[Team Ginger] 크리스마스에도 코딩하는 사람이 있다?](https://hoonsb.tistory.com/99)
-- [[FastCampus Bootcamp 5th] 활동 기록](https://hoonsb.tistory.com/category/%F0%9F%8E%92%20Activity/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4)
-- [[Depromeet 14th] 활동 기록](https://hoonsb.tistory.com/category/%F0%9F%8E%92%20Activity/%EB%94%94%ED%94%84%EB%A7%8C)
-
 <br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsrla9806&count_bg=%23B3C6EB&title_bg=%23626060&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B%F0%9F%8F%BB+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
