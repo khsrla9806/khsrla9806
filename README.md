@@ -1,4 +1,5 @@
 #### :school_satchel: EXPERIENCE
+- `2024-02 ~        ` &nbsp; **EC Bank** &nbsp; `development and management`
 - `2023-11 ~ 2024-02` &nbsp; **Depromeet 14th** &nbsp; `server`
 - `2023-10 ~ 2023-12` &nbsp; **Team Ginger** &nbsp; `backEnd`
 - `2023-03 ~ 2023-10` &nbsp; **FastCampus Bootcamp 5th** &nbsp; `backEnd`
@@ -10,7 +11,9 @@
 ![](https://img.shields.io/badge/Java-FBEFEF?style=flat-square&logo=openjdk&logoColor=C70D2C)
 ![](https://img.shields.io/badge/SpringBoot-F2FBEF?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![](https://img.shields.io/badge/Spring%20Data%20JPA-F2FBEF?style=flat-square&logo=spring&logoColor=6DB33F)
+![](https://img.shields.io/badge/MyBatis-EFF2FB?style=flat-square&logo=mybatis&logoColor=6DB33F)
 ![](https://img.shields.io/badge/MySQL-EFF5FB?style=flat-square&logo=mysql&logoColor=4479A1)
+![](https://img.shields.io/badge/Oracle-FBEFEF?style=flat-square&logo=oracle&logoColor=FA5858)
 <br>
 ![](https://img.shields.io/badge/Typescript-EFF5FB?style=flat-square&logo=typescript&logoColor=3178C6)
 ![](https://img.shields.io/badge/NestJs-FBEFEF?style=flat-square&logo=nestjs&logoColor=E0234E)
